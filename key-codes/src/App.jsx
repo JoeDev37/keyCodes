@@ -29,8 +29,13 @@ export function App() {
 
     <div className="container-div">
 
+      <p className="key">event.key</p>
       <div className="input-key">{input}</div>
+
+      <p className="code">event.keyCode</p>
       <div className="input-code">{code}</div>
+
+      <p className="event">event.code</p>
       <div className="input-event">{event}</div>
     
     </div>

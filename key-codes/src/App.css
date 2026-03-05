@@ -35,16 +35,8 @@ body, html {
   color: #cdd6f4;
 }
 
-/* .input-key {
-  background-color: #181825;
-  color: white;
+.key,
+.code,
+.event {
+  text-align: center;
 }
-
-.input-code {
-  background-color: white;
-  color: black;
-}
-
-.input-event {
-  background-color: #cdd6f4;
-} */
